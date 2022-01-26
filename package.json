@@ -1,0 +1,27 @@
+{
+  "name": "@appidia/react-native-flags",
+  "description": "Flag component for react native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react native flags"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.1"
+  },
+  "homepage": "https://github.com/APPIDIA/react-native-flags#readme",
+  "bugs": {
+    "url": "https://github.com/APPIDIA/react-native-flags/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APPIDIA/react-native-flags.git"
+  }
+}
